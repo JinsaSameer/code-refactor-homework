@@ -21,6 +21,15 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
+@media screen and (max-width: 576px) {
+    .search-engine-optimization{
+        display: flex;
+        display: block;
+    }
+    .header div ul li {
+        display: block;
+    }
+}
 
 /*.header h1 .seo {
     color: #d9dcd6;
