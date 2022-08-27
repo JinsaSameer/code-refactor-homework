@@ -49,7 +49,8 @@ Html,Css
 
 Following is screenshots of the page
 
-![Screenshot (137)](https://user-images.githubusercontent.com/101385521/187051309-b526a662-43f2-4db8-a5a5-15e354b11296.png)
+![Screenshot (137)](https://user-images.githubusercontent.com/101385521/187051624-11c1b3ce-015a-4ff6-97ef-2a78871d4947.png)
+
 
 
 ![Screenshot (141)](https://user-images.githubusercontent.com/101385521/187051527-4014ef57-3043-41a3-a201-62ee06904fd0.png)
